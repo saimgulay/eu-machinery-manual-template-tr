@@ -5,7 +5,7 @@ title: AB Makine Kullanma Kılavuzu Şablonu
 # AB Makine Kullanma Kılavuzu Şablonu (CE) — Kanıta Dayalı
 
 Bu site, GitHub deposunun Pages görünümüdür:
-- Repo: https://github.com/saimgulay/eu-machinery-manual-template-tr-tr
+- Repo: https://github.com/saimgulay/ab-makine-kullanma-kilavuzu-sablonu-tr
 
 ## Buradan başlayın
 - [Kılavuz şablonu (TR)](MANUAL_TEMPLATE_TR.md)

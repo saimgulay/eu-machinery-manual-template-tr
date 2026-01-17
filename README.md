@@ -1,6 +1,6 @@
 # Kanıta Dayalı AB Makine Kullanma Kılavuzu Şablonu (CE)
 
-**Canlı dokümanlar:** https://saimgulay.github.io/eu-machinery-manual-template-tr/
+**Canlı dokümanlar:** https://saimgulay.github.io/ab-makine-kullanma-kilavuzu-sablonu/
 
 ## DOCX sürümü
 - Konum: docs/MANUAL_TEMPLATE_TR.docx
